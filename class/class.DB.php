@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "monitriip_cat";
-$password = "lbs031182*";
+$password = "";
 $dbname = "monitriip_cat";
 try {
   $conn = new PDO("mysqli:host=$servername;dbname=monitriip_cat", $username, $password);
