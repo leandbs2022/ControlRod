@@ -209,7 +209,7 @@ echo "<h1>Controle de Viagem</h1>";
                             echo "<option>{$direto}</option>";
                         }
                     }
-                    $aba="Ver Resultado";
+                    $aba="Resultado oculto";
                     ?>
                 </select>
                 <br>
